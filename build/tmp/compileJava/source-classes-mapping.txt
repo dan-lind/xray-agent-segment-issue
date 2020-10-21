@@ -1,4 +1,0 @@
-com/byteslice/common/unlock/api/controller/UnlockController.java
- com.byteslice.common.unlock.api.controller.UnlockController
-com/byteslice/common/unlock/UnlockApplication.java
- com.byteslice.common.unlock.UnlockApplication
