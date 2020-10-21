@@ -1,0 +1,4 @@
+{
+  "serviceName": "Test backend service",
+  "contextPropagation": true
+}
